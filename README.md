@@ -1,10 +1,10 @@
 # Mini-Assistent
 
-import webbrowser as browser #if not installed open the terminal or Command prompt (cmd) and type "pip install webbrowser" and then press enter
-
-my_browser = browser.get('windows-default')
-
-
+import webbrowser as browser #if not installed open the terminal or Command prompt (cmd) and type "pip install webbrowser" and then press enter  
+  
+my_browser = browser.get('windows-default')     
+        
+        
 recunoastere = ["Alice", "open", "search"] #Start & command: first word have to be Alice (like "hello google") and second word have to be open or search.
 
 ComandaOpen = ["youtube", "facebook", "instagram"] #For "open" command. What you want to open(ex: Alice open youtube)
