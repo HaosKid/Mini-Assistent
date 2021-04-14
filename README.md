@@ -11,8 +11,8 @@ ComandaOpen = ["youtube", "facebook", "instagram"] #For "open" command. What you
 x = input()  
 x = x.split(" ") #Transform your input into a list(to be easier later)  
   
-if recunoastere[0] == x[0]: #Check if first word of your input matches with "Alice", if yes then:  
-    if recunoastere[1] == x[1]: #Check if your second word is "open", if yes then:  
+if recunoastere[0] == x[0]: #Check if first word of your input matches with "Alice", if yes then:<br/>
+    if recunoastere[1] == x[1]: #Check if your second word is "open", if yes then:  <br/>
         if ComandaOpen[0] == x[2]:#Check if your third word is "youtube", if yes then:  
             my_browser.open_new("https://www.youtube.com/") #Open youtube  
         if ComandaOpen[1] == x[2]:#Check if your third word is "facebook", if yes then:  
