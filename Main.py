@@ -29,5 +29,7 @@ if recunoastere[0] == x[0]: #Check if first word of your input matches with "Ali
 #2nd ex : Alice open facebook            --> https://www.facebook.com/
 #3rd ex : Alice open youtube             --> https://www.youtube.com/
 
+#A simple project where it simulates some features of an phone assistent.
+
 #I hope you enjoy my work <3
 #https://github.com/HaosKid
